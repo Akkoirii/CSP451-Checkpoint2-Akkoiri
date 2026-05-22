@@ -51,3 +51,9 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+## API Endpoint Features
+
+- Modular API route organization
+- Task management endpoints
+- Feedback submission endpoint
+- Input validation for POST requests
